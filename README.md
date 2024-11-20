@@ -14,7 +14,7 @@ file is student_loans_with_deep_learning. The dataset came from
 an external source. 
 
 ### Known Issues:
-N/A 
+None known. 
 
 ### Acknowledgements:
 Some help from Xpert Asst for formattiing issues.
